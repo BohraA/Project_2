@@ -1,0 +1,59 @@
+/*** BY Amit - Start ****/
+
+// Smartphones - Portrait
+@media (max-width: 767px){
+
+}
+// Smartphones - Landscape
+@media (min-width: 421px) and (max-width: 767px) {
+
+}
+// iPAD- Portrait
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+//iPAD - landscape
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+
+} 
+/*** BY Amit - End ****/
+
+
+
+
+/*** BY VIVEK - Start ****/
+
+@media  only screen and (min-width: 1200px){
+}
+
+
+@media only screen and (max-device-width:1024px) {
+
+}
+
+
+@media only screen and (max-width: 979px) {
+
+}
+
+@media only screen and (max-device-width : 959px) {
+
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media (max-width : 767px) {
+   
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (max-width:480px) {
+    
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+
+}
+
+/*** BY VIVEK - End ****/
